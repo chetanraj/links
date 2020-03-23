@@ -13,7 +13,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "path:replace": "path-prefix-cra",
     "build:deploy": "npm run build && gh-pages -d build",
     "deploy": "gh-pages -d build"
   },
